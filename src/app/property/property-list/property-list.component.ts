@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./property-list.component.scss']
 })
 export class PropertyListComponent implements OnInit {
-  Property: Array<any> = [
+  properties: Array<any> = [
     {  
       "ID":1,
      "Title":"Super house at calabasas",
