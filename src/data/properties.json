@@ -22,6 +22,17 @@
             "Name":"Florida Smart house",
             "Type":"Casa",
             "Price":1200000 
+        },
+        { 
+            "Id":5,
+            "Name":"New York 4/4 430m²",
+            "Type":"Apartamento",
+            "Price":3200000 
+        },
+        { 
+            "Id":6,
+            "Name":"New York 4/4 430m²",
+            "Type":"Apartamento",
+            "Price":3200000 
         }
-           
     ]

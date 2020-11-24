@@ -8,13 +8,8 @@ import { Component, Input, OnInit } from '@angular/core';
 export class PropertyCardComponent {
   @Input() property : any
  
-  Property: any = 
-   {  
-    "ID":1,
-    "Title":"Super house at calabasas",
-    "Type":"House",
-    "Price":"2000"
-  }
+  Property: any;
+
   
 
   constructor() { }
