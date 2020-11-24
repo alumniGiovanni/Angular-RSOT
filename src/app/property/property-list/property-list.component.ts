@@ -17,6 +17,8 @@ export class PropertyListComponent implements OnInit {
       {
         this.properties=data;
         console.log(data);
+      }, error => { 
+        console.log(error);
       }
     )
     // this.http.get('data/properties.json').subscribe(
