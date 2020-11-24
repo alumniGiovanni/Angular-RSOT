@@ -1,0 +1,27 @@
+    [
+        { 
+         "Id":1,
+         "Name":"Calabasas 10/4 1200m²",
+         "Type":"Casa",
+         "Price":4200000 
+        },
+        { 
+            "Id":2,
+            "Name":"Los Angeles 6/4 1200m²",
+            "Type":"Casa",
+            "Price":2200000 
+        },
+        { 
+            "Id":3,
+            "Name":"New York 4/4 430m²",
+            "Type":"Apartamento",
+            "Price":3200000 
+        },
+        { 
+            "Id":4,
+            "Name":"Florida Smart house",
+            "Type":"Casa",
+            "Price":1200000 
+        }
+           
+    ]
