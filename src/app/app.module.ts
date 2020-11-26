@@ -9,13 +9,17 @@ import { PropertyListComponent } from './property/property-list/property-list.co
 
 import { HttpClientModule } from '@angular/common/http'
 import { HousingService } from './services/housing.service';
+import { AddPropertyComponent } from './property/add-property/add-property.component';
+import { PropertyDetailComponent } from './property/property-detail/property-detail.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     PropertyCardComponent,
     NavBarComponent,
-    PropertyListComponent
+    PropertyListComponent,
+    AddPropertyComponent,
+    PropertyDetailComponent
   ],
   imports: [
     BrowserModule,
