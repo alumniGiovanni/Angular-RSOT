@@ -1,37 +1,37 @@
     [
         { 
          "Id":1,
-         "Name":"Calabasas 10/4 1200m²",
+         "Name":"Caminho das árvores 4/4 230m²",
          "Type":"Casa",
          "Price":4200000 
         },
         { 
             "Id":2,
-            "Name":"Los Angeles 6/4 1200m²",
-            "Type":"Casa",
+            "Name":"Apartamento Pituba 3/4 320m²",
+            "Type":"Apartamento",
             "Price":2200000 
         },
         { 
             "Id":3,
-            "Name":"New York 4/4 430m²",
+            "Name":"Apartamento São Paulo 4/4 430m²",
             "Type":"Apartamento",
             "Price":3200000 
         },
         { 
             "Id":4,
-            "Name":"Florida Smart house",
+            "Name":"Casa terrea em Vilas do Atlantico",
             "Type":"Casa",
             "Price":1200000 
         },
         { 
             "Id":5,
-            "Name":"New York 4/4 430m²",
+            "Name":"Apartamento no Imbuí 4/4 430m²",
             "Type":"Apartamento",
             "Price":3200000 
         },
         { 
             "Id":6,
-            "Name":"New York 4/4 430m²",
+            "Name":"Vilas do Atlantico 4/4 430m²",
             "Type":"Apartamento",
             "Price":3200000 
         }
